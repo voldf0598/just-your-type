@@ -2,25 +2,25 @@ html {
   background-color: #faf6d9;
 }
 
-.oops{
+.oops {
   position: relative;
   z-index: 1000;
 }
 
-h1{
-  font-family: 'Fredericka the Great', cursive;
+h1 {
+  font-family: "Fredericka the Great", cursive;
 }
 
-p{
-  font-family: 'Indie Flower', cursive;
+p {
+  font-family: "Indie Flower", cursive;
 }
 
-img{
+img {
   width: 100%;
   opacity: .1;
 }
 
-.icon{
+.icon {
   position: absolute;
   transform: translateX(-50%);
   left: 50%;
